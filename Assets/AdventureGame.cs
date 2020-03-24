@@ -8,11 +8,11 @@ public class AdventureGame : MonoBehaviour
     [SerializeField] Text TextComponet;
     void Start()
     {
-        TextComponet.text = "Ace Alrich";
+        TextComponet.text = "Ace";
     }
 
     void Update()
     {
-        
+
     }
 }
