@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'You avake under an apple tree with no memory of who you are or how you
+    got there. What do you do?
+
+
+    1. Spent more time wondering who you are.
+
+    2. Stand up to look around.'
