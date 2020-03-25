@@ -5,10 +5,11 @@ using UnityEngine.UI;
 public class AdventureGame : MonoBehaviour
 {
 
-    [SerializeField] Text TextComponet;
+    [SerializeField]
+    Text TextComponet;
     void Start()
     {
-        TextComponet.text = "Ace";
+        TextComponet.text = "Ace Alrich";
     }
 
     void Update()
