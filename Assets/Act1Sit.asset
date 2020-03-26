@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: Act1Sit
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: You Sit and wonder who you are. You can't think of anything. It's as
+    if your memory is a blank sheet of paper.
+  nextStates:
+  - {fileID: 11400000, guid: 4f96c4fcdfb2efc44a9a5251ff8d4bbb, type: 2}
+  - {fileID: 11400000, guid: e5cdf9160892c8a4c9d610f0fa3a6355, type: 2}

@@ -19,3 +19,6 @@ MonoBehaviour:
     1. Spent more time wondering who you are.
 
     2. Stand up to look around.'
+  nextStates:
+  - {fileID: 11400000, guid: efa0b267bf4330740b6d2425d70b0fb6, type: 2}
+  - {fileID: 11400000, guid: 4f96c4fcdfb2efc44a9a5251ff8d4bbb, type: 2}
