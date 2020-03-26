@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: Colapse
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You have strained your last strengh and you colapse on the ground slowly
+    you crowl back to the apple tree. Oh sweet apple tree! You swear you will never
+    leave again.
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 2fde9ea02a552e947bd6ea3cdafc44e3, type: 2}

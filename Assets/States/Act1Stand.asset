@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: Act1Stand
   m_EditorClassIdentifier: 
-  storyText: Standing up you notice that you are in a orcard fool of apple and peer
+  storyText: 'Standing up you notice that you are in a orcard fool of apple and peer
     trees. You can see a cheery tree in the distance.
+
+
+    1. Sit back down.
+
+    2. Reach out for the cheery tree.'
   nextStates:
-  - {fileID: 11400000, guid: efa0b267bf4330740b6d2425d70b0fb6, type: 2}
-  - {fileID: 11400000, guid: e5cdf9160892c8a4c9d610f0fa3a6355, type: 2}
+  - {fileID: 11400000, guid: 2fde9ea02a552e947bd6ea3cdafc44e3, type: 2}
+  - {fileID: 11400000, guid: b787927d36fb5c34d97d3905ab780add, type: 2}

@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: Act1Reach
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'As you reach for the cheery tree you feel so tiered. That you feel like
+    you will colapse. Your head starts spinning.
+
+
+    1. Sit back down.
+
+    2. Keep going.'
+  nextStates:
+  - {fileID: 11400000, guid: 2fde9ea02a552e947bd6ea3cdafc44e3, type: 2}
+  - {fileID: 11400000, guid: 6ae9060100f29c24eaf09a0b3ac5f643, type: 2}

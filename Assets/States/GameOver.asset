@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9be62cce607fe64593a3f373f74cc8c, type: 3}
   m_Name: GameOver
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You stay Silently under the tree as the warm summer breaze blows over
+    your neck. And you wonder if any of this is real. As you slowly drift back to
+    slumber.
+
+
+    1. Wake up.'
+  nextStates:
+  - {fileID: 11400000, guid: e5cdf9160892c8a4c9d610f0fa3a6355, type: 2}
