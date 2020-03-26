@@ -8,6 +8,8 @@ public class AdventureGame : MonoBehaviour
     [SerializeField] Text TextComponet;
     [SerializeField] State startingState;
 
+
+
     State state;
     void Start()
     {
